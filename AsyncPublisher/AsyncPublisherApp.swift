@@ -11,7 +11,7 @@ import SwiftUI
 struct AsyncPublisherApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AsnycPublisherView()
         }
     }
 }
